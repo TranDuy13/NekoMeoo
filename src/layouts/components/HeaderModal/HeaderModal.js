@@ -42,7 +42,7 @@ function HeaderModal({ data, setHideHeaderModal }) {
                         {data.map((item, index) => (
                             <Link
                                 key={index}
-                                to="/"
+                                to="/NekoMeoo/profile"
                                 onMouseOver={(e) => {
                                     setContent(e.target.text);
                                 }}

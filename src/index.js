@@ -8,14 +8,13 @@ import reportWebVitals from "./reportWebVitals";
 import { Provider } from "react-redux";
 import store from "../src/app/store";
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <Provider store={store}>
+ 
     
       <React.Suspense fallback={<div>Loading...</div>}>
         <GlobalStyles>
           <App />
         </GlobalStyles>
       </React.Suspense>
-  </Provider>
 );
 
 // If you want to start measuring performance in your app, pass a function
