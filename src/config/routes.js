@@ -1,15 +1,15 @@
 const routes = {
-    home: '/Neko',
-    profile: '/Neko/profile',
-    login:'/Neko/login',
-    product:'/Neko/products',
-    privateroute:'/Neko/admin',
-    admin: '/Neko/admin',
-    producttype:'/Neko/admin/producttype',
-    detailtype:'/Neko/admin/producttype/item/:id',
-    addtypeproduct:'/Neko/admin/producttype/new',
-    addproduct:'/Neko/admin/products/new',
-    products:'/Neko/admin/products'
+    home: '/NekoMeoo',
+    profile: '/NekoMeoo/profile',
+    login:'/NekoMeoo/login',
+    product:'/NekoMeoo/products',
+    privateroute:'/NekoMeoo/admin',
+    admin: '/NekoMeoo/admin',
+    producttype:'/NekoMeoo/admin/producttype',
+    detailtype:'/NekoMeoo/admin/producttype/item/:id',
+    addtypeproduct:'/NekoMeoo/admin/producttype/new',
+    addproduct:'/NekoMeoo/admin/products/new',
+    products:'/NekoMeoo/admin/products'
 };
 
 export default routes;

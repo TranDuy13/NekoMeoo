@@ -84,7 +84,7 @@ function Home() {
                 <div className={cx('category-container')}>
                     <Link
                         style={{ backgroundImage: 'url(https://cms.curnonwatch.com/uploads/nu_83e94c34eb.jpg)' }}
-                        to="/Neko/profile"
+                        to="/NekoMeoo/profile"
                         className={cx('category-link')}
                     >
                         <div className={cx('category-content')}>
@@ -96,7 +96,7 @@ function Home() {
                     </Link>
                     <Link
                         style={{ backgroundImage: 'url(	https://cms.curnonwatch.com/uploads/nam_ff98c9d171.jpg)' }}
-                        to="/Neko/profile"
+                        to="/NekoMeoo/profile"
                         className={cx('category-link')}
                     >
                         <div className={cx('category-content')}>
@@ -108,7 +108,7 @@ function Home() {
                     </Link>
                     <Link
                         style={{ backgroundImage: 'url(https://cms.curnonwatch.com/uploads/pk_515e1b9dce.jpg)' }}
-                        to="/Neko/profile"
+                        to="/NekoMeoo/profile"
                         className={cx('category-link')}
                     >
                         <div className={cx('category-content')}>
@@ -123,7 +123,7 @@ function Home() {
             <div className={cx('menBestSeller-section')}>
                 <div className={cx('bestSeller-container')}>
                     <h3 className={cx('bestSeller-title')}>MEN'S BEST SELLERS</h3>
-                    <Link to="/Neko/profile" className={cx('bestSeller-seeAll')}>
+                    <Link to="/NekoMeoo/profile" className={cx('bestSeller-seeAll')}>
                         <span className={cx('bestSeller-seeAll-test')}>XEM TẤT CẢ</span>
                         <span className={cx('bestSeller-seeAll-icon')}>
                             <LeftArrowIcon />

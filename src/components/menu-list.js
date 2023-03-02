@@ -17,7 +17,7 @@ export const MenuList = (props) => {
   const navigate = useNavigate();
   const handleLogout = () => {
     dispatch(logout());
-    navigate("/Neko/login");
+    navigate("/NekoMeoo/login");
   };
   const { anchorEl, open, ...other } = props;
   return (
