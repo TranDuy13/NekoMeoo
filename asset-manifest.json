@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NekoMeoo/static/css/main.5b15bbb3.css",
-    "main.js": "/NekoMeoo/static/js/main.03fa6228.js",
+    "main.js": "/NekoMeoo/static/js/main.be646546.js",
     "static/css/122.535e698a.chunk.css": "/NekoMeoo/static/css/122.535e698a.chunk.css",
     "static/js/122.fb7a8aa6.chunk.js": "/NekoMeoo/static/js/122.fb7a8aa6.chunk.js",
     "static/css/760.c3136adb.chunk.css": "/NekoMeoo/static/css/760.c3136adb.chunk.css",
@@ -42,7 +42,7 @@
     "index.html": "/NekoMeoo/index.html",
     "static/media/lineNavbar.svg": "/NekoMeoo/static/media/lineNavbar.56f09ed84bf9fb714986cb78aa958927.svg",
     "main.5b15bbb3.css.map": "/NekoMeoo/static/css/main.5b15bbb3.css.map",
-    "main.03fa6228.js.map": "/NekoMeoo/static/js/main.03fa6228.js.map",
+    "main.be646546.js.map": "/NekoMeoo/static/js/main.be646546.js.map",
     "122.535e698a.chunk.css.map": "/NekoMeoo/static/css/122.535e698a.chunk.css.map",
     "122.fb7a8aa6.chunk.js.map": "/NekoMeoo/static/js/122.fb7a8aa6.chunk.js.map",
     "760.c3136adb.chunk.css.map": "/NekoMeoo/static/css/760.c3136adb.chunk.css.map",
@@ -74,6 +74,6 @@
   },
   "entrypoints": [
     "static/css/main.5b15bbb3.css",
-    "static/js/main.03fa6228.js"
+    "static/js/main.be646546.js"
   ]
 }
